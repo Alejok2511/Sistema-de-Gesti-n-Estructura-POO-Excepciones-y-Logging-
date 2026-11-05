@@ -1,0 +1,12 @@
+2026-11-05 11:27:51,267 - INFO - --- INICIO DE SIMULACIÓN ---
+2026-11-05 11:27:51,267 - ERROR - Fallo en operación 2: DatosInvalidosError - Nombre de cliente inválido: Al
+2026-11-05 11:27:51,268 - ERROR - Fallo en operación 3: DatosInvalidosError - Documento inválido: ABC
+2026-11-05 11:27:51,268 - INFO - Reserva exitosa: Maria Lopez reservó Sala A (10 personas) por $238.00
+2026-11-05 11:27:51,268 - INFO - Intento de procesamiento de reserva finalizado. Estado actual: Confirmada
+2026-11-05 11:27:51,268 - INFO - Intento de procesamiento de reserva finalizado. Estado actual: Pendiente
+2026-11-05 11:27:51,269 - ERROR - Fallo en operación 5: ReservaError - No se pudo confirmar la reserva. Causa: El servicio Sala A (10 personas) está ocupado.
+2026-11-05 11:27:51,269 - INFO - Reserva exitosa: Luis Arce reservó Proyector 4K por $410.00
+2026-11-05 11:27:51,269 - INFO - Intento de procesamiento de reserva finalizado. Estado actual: Confirmada
+2026-11-05 11:27:51,269 - INFO - Reserva exitosa: Diana Solis reservó Consultoría TI por $1080.00
+2026-11-05 11:27:51,269 - INFO - Intento de procesamiento de reserva finalizado. Estado actual: Confirmada
+2026-11-05 11:27:51,269 - ERROR - Fallo en operación 8: DatosInvalidosError - El cliente no es válido.
